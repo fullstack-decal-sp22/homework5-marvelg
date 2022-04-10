@@ -1,0 +1,26 @@
+{
+  "name": "homework5-marvelg",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullstack-decal/homework5-marvelg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fullstack-decal/homework5-marvelg/issues"
+  },
+  "homepage": "https://github.com/fullstack-decal/homework5-marvelg#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9",
+    "mongosh": "^1.3.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
